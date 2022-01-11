@@ -90,7 +90,7 @@
     <sakai.hibernate.groupId>org.hibernate</sakai.hibernate.groupId>
     <sakai.hibernate.artifactId>hibernate-core</sakai.hibernate.artifactId>
     <sakai.hibernate.version>4.3.11.Final</sakai.hibernate.version>
-    <sakai.httpclient.version>4.5.3</sakai.httpclient.version>
+    <sakai.httpclient.version>4.5.13</sakai.httpclient.version>
     <sakai.httpcore.version>4.4.7</sakai.httpcore.version>
     <sakai.httpmime.version>4.5.3</sakai.httpmime.version>
     <sakai.jackson.version>2.9.10.4</sakai.jackson.version>
