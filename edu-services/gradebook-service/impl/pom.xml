@@ -12,7 +12,7 @@
     <name>gradebook-service-impl</name>
     <packaging>jar</packaging>
     <properties>
-        <deploy.target />
+        <deploy.target/>
     </properties>
     <dependencies>
         <dependency>
@@ -138,7 +138,7 @@
         <dependency>
             <groupId>dom4j</groupId>
             <artifactId>dom4j</artifactId>
-            <version>1.4</version>
+            <version>1.4-dev-2</version>
         </dependency>
         <dependency>
             <groupId>com.thoughtworks.xstream</groupId>
