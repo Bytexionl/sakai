@@ -129,7 +129,7 @@
     <sakai.okiosid.version>2.0</sakai.okiosid.version>
     <joda.time.version>2.9.9</joda.time.version>
     <jayway.jsonpath.version>2.2.0</jayway.jsonpath.version>
-    <sakai.genericdao.version>0.11.0</sakai.genericdao.version>
+    <sakai.genericdao.version>0.12.0</sakai.genericdao.version>
     <reflectutils.version>0.9.20</reflectutils.version>
     <json.simple.version>1.1.1</json.simple.version>
     <handlebars.version>2.1.0</handlebars.version>
