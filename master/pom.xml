@@ -97,7 +97,7 @@
     <sakai.java.jwt.version>3.8.3</sakai.java.jwt.version>
     <sakai.jcr.version>1.0</sakai.jcr.version>
     <sakai.jstl.version>1.1.2</sakai.jstl.version>
-    <sakai.lombok.version>1.16.16</sakai.lombok.version>
+    <sakai.lombok.version>1.18.24</sakai.lombok.version>
     <sakai.jackson.version>2.9.10.4</sakai.jackson.version>
     <sakai.lucene.version>4.10.4</sakai.lucene.version>
     <sakai.mail.version>1.6.0</sakai.mail.version>
