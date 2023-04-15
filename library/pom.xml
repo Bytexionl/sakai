@@ -20,7 +20,7 @@
 		<!-- Default extra plugins enabled, currently autosave disabled via SAK-33362 -->
 		<ckeditor-extra-plugins>sakaipreview,image2,audiorecorder,contentitem,movieplayer,wordcount,notification,autosave</ckeditor-extra-plugins>
 		<!-- Empty defaults for a11y-->
-		<ckeditor-a11y-extra-plugins></ckeditor-a11y-extra-plugins>
+		<ckeditor-a11y-extra-plugins/>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -82,7 +82,7 @@
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>handlebars</artifactId>
-			<version>4.0.5</version>
+			<version>4.7.6</version>
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
