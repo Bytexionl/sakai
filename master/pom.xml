@@ -101,7 +101,7 @@
     <sakai.jackson.version>2.9.10.4</sakai.jackson.version>
     <sakai.lucene.version>4.10.4</sakai.lucene.version>
     <sakai.mail.version>1.6.0</sakai.mail.version>
-    <sakai.org.json.version>20160810</sakai.org.json.version>
+    <sakai.org.json.version>20230227</sakai.org.json.version>
     <sakai.pluto.version>1.1.7</sakai.pluto.version>
     <sakai.quartz.version>2.2.2</sakai.quartz.version>
     <sakai.opencsv.version>2.3</sakai.opencsv.version>
