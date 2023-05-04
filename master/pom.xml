@@ -89,7 +89,7 @@
     <sakai.elasticsearch.version>1.7.6</sakai.elasticsearch.version>
     <sakai.hibernate.groupId>org.hibernate</sakai.hibernate.groupId>
     <sakai.hibernate.artifactId>hibernate-core</sakai.hibernate.artifactId>
-    <sakai.hibernate.version>4.3.11.Final</sakai.hibernate.version>
+    <sakai.hibernate.version>5.4.24.Final</sakai.hibernate.version>
     <sakai.httpclient.version>4.5.3</sakai.httpclient.version>
     <sakai.httpcore.version>4.4.7</sakai.httpcore.version>
     <sakai.httpmime.version>4.5.3</sakai.httpmime.version>
@@ -110,7 +110,7 @@
     <sakai.simple-xml.version>2.6</sakai.simple-xml.version>
     <sakai.spring.groupId>org.springframework</sakai.spring.groupId>
     <sakai.spring.artifactId>spring-core</sakai.spring.artifactId>
-    <sakai.spring.version>4.3.10.RELEASE</sakai.spring.version>
+    <sakai.spring.version>5.2.22.RELEASE</sakai.spring.version>
     <sakai.spring.security.version>3.2.10.RELEASE</sakai.spring.security.version>
     <sakai.spring.hateoas.version>0.22.0.RELEASE</sakai.spring.hateoas.version>
     <sakai.spring.plugin.version>1.2.0.RELEASE</sakai.spring.plugin.version>
