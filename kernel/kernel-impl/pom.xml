@@ -18,7 +18,7 @@
   <packaging>sakai-component</packaging>
   <properties>
     <deploy.target>components</deploy.target>
-    <maven.test.jvmargs />
+    <maven.test.jvmargs/>
     <kernel.basedir>${basedir}/..</kernel.basedir>
   </properties>
   <build>  
@@ -34,7 +34,7 @@
           <systemPropertyVariables>
             <derby.stream.error.file>${project.build.directory}/derby.log</derby.stream.error.file>
             <derby.system.durability>test</derby.system.durability>
-            <known.issues />
+            <known.issues/>
           </systemPropertyVariables>
         </configuration>
       </plugin>
@@ -193,7 +193,7 @@
     <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
-        <version>16.0.1</version>
+        <version>32.0.0-android</version>
     </dependency>
     <dependency>
         <groupId>com.google.code.findbugs</groupId>
@@ -399,7 +399,7 @@
               <executable>java</executable>
               <arguments>
                 <argument>-classpath</argument>
-                <classpath />
+                <classpath/>
                 <argument>org.sakaiproject.content.impl.util.StorageConverter</argument>
                 <!-- Use either a properties file or the properties...or both
                 <argument>-p</argument>
