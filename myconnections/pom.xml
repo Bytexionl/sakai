@@ -62,7 +62,7 @@
             <groupId>org.sakaiproject.profile2</groupId>
             <artifactId>profile2-api</artifactId>
             <scope>provided</scope>
-            <version>13-SNAPSHOT</version>
+            <version>20.0</version>
         </dependency>
         
     </dependencies>
