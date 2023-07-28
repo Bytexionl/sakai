@@ -29,7 +29,7 @@
       <dependency>
       <groupId>org.sakaiproject.common</groupId>
       <artifactId>sakai-common-composite-component-data</artifactId>
-      <version>13-SNAPSHOT</version>
+      <version>23.0</version>
     </dependency>
     <dependency>
         <groupId>org.sakaiproject.common</groupId>
