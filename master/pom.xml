@@ -73,7 +73,7 @@
   </scm>
 
   <properties>
-    <sakai.version>13-SNAPSHOT</sakai.version>
+    <sakai.version>22.0</sakai.version>
     <!-- Standard dependency versions -->
     <sakai.apache.httpcomponents.httpclient.version>4.1.1</sakai.apache.httpcomponents.httpclient.version>
     <sakai.commons.lang.version>2.6</sakai.commons.lang.version>
@@ -89,7 +89,7 @@
     <sakai.elasticsearch.version>1.7.6</sakai.elasticsearch.version>
     <sakai.hibernate.groupId>org.hibernate</sakai.hibernate.groupId>
     <sakai.hibernate.artifactId>hibernate-core</sakai.hibernate.artifactId>
-    <sakai.hibernate.version>4.3.11.Final</sakai.hibernate.version>
+    <sakai.hibernate.version>5.1.0.Final</sakai.hibernate.version>
     <sakai.httpclient.version>4.5.3</sakai.httpclient.version>
     <sakai.httpcore.version>4.4.7</sakai.httpcore.version>
     <sakai.httpmime.version>4.5.3</sakai.httpmime.version>
@@ -122,7 +122,7 @@
     <sakai.xerces.impl.version>2.11.0</sakai.xerces.impl.version>
     <sakai.xerces.api.version>2.6.2</sakai.xerces.api.version>
     <sakai.log4j.version>1.2.17</sakai.log4j.version>
-    <sakai.slf4j.version>1.7.21</sakai.slf4j.version>
+    <sakai.slf4j.version>1.7.34</sakai.slf4j.version>
     <sakai.poi.version>3.17</sakai.poi.version>
     <sakai.mockito.version>2.7.22</sakai.mockito.version>
     <sakai.powermock.version>1.7.0RC4</sakai.powermock.version>
