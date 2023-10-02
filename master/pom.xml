@@ -73,7 +73,7 @@
   </scm>
 
   <properties>
-    <sakai.version>13-SNAPSHOT</sakai.version>
+    <sakai.version>23.0</sakai.version>
     <!-- Standard dependency versions -->
     <sakai.apache.httpcomponents.httpclient.version>4.1.1</sakai.apache.httpcomponents.httpclient.version>
     <sakai.commons.lang.version>2.6</sakai.commons.lang.version>
@@ -103,7 +103,7 @@
     <sakai.mail.version>1.6.0</sakai.mail.version>
     <sakai.org.json.version>20160810</sakai.org.json.version>
     <sakai.pluto.version>1.1.7</sakai.pluto.version>
-    <sakai.quartz.version>2.2.2</sakai.quartz.version>
+    <sakai.quartz.version>2.3.0</sakai.quartz.version>
     <sakai.opencsv.version>2.3</sakai.opencsv.version>
     <sakai.servletapi.version>2.4</sakai.servletapi.version>
     <sakai.groovy.version>2.4.8</sakai.groovy.version>
@@ -122,7 +122,7 @@
     <sakai.xerces.impl.version>2.11.0</sakai.xerces.impl.version>
     <sakai.xerces.api.version>2.6.2</sakai.xerces.api.version>
     <sakai.log4j.version>1.2.17</sakai.log4j.version>
-    <sakai.slf4j.version>1.7.21</sakai.slf4j.version>
+    <sakai.slf4j.version>1.7.34</sakai.slf4j.version>
     <sakai.poi.version>3.17</sakai.poi.version>
     <sakai.mockito.version>2.7.22</sakai.mockito.version>
     <sakai.powermock.version>1.7.0RC4</sakai.powermock.version>
