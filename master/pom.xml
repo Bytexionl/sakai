@@ -73,7 +73,7 @@
   </scm>
 
   <properties>
-    <sakai.version>13-SNAPSHOT</sakai.version>
+    <sakai.version>23.0</sakai.version>
     <!-- Standard dependency versions -->
     <sakai.apache.httpcomponents.httpclient.version>4.1.1</sakai.apache.httpcomponents.httpclient.version>
     <sakai.commons.lang.version>2.6</sakai.commons.lang.version>
@@ -86,7 +86,7 @@
     <sakai.ehcache.groupId>net.sf.ehcache</sakai.ehcache.groupId>
     <sakai.ehcache.artifactId>ehcache-core</sakai.ehcache.artifactId>
     <sakai.ehcache.version>2.6.11</sakai.ehcache.version>
-    <sakai.elasticsearch.version>1.7.6</sakai.elasticsearch.version>
+    <sakai.elasticsearch.version>7.17.13</sakai.elasticsearch.version>
     <sakai.hibernate.groupId>org.hibernate</sakai.hibernate.groupId>
     <sakai.hibernate.artifactId>hibernate-core</sakai.hibernate.artifactId>
     <sakai.hibernate.version>4.3.11.Final</sakai.hibernate.version>
