@@ -24,7 +24,7 @@
         <log4jdbc.log4j2.version>1.16</log4jdbc.log4j2.version>
         <rest.assured.version>2.9.0</rest.assured.version>
         <spring.security.version>4.2.1.RELEASE</spring.security.version>
-        <spring.boot.version>1.5.2.RELEASE</spring.boot.version>
+        <spring.boot.version>2.7.18</spring.boot.version>
     </properties>
 
     <dependencies>
