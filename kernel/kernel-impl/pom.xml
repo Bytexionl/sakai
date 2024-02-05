@@ -18,7 +18,7 @@
   <packaging>sakai-component</packaging>
   <properties>
     <deploy.target>components</deploy.target>
-    <maven.test.jvmargs />
+    <maven.test.jvmargs/>
     <kernel.basedir>${basedir}/..</kernel.basedir>
   </properties>
   <build>  
@@ -34,7 +34,7 @@
           <systemPropertyVariables>
             <derby.stream.error.file>${project.build.directory}/derby.log</derby.stream.error.file>
             <derby.system.durability>test</derby.system.durability>
-            <known.issues />
+            <known.issues/>
           </systemPropertyVariables>
         </configuration>
       </plugin>
@@ -277,7 +277,7 @@
     <dependency>
       <groupId>org.owasp.antisamy</groupId>
       <artifactId>antisamy</artifactId>
-      <version>1.5.7</version>
+      <version>1.7.5</version>
     </dependency>
     <!-- This is needed by antisamy because batik-css has wrong versions getting pulled in -->
     <dependency>
@@ -399,7 +399,7 @@
               <executable>java</executable>
               <arguments>
                 <argument>-classpath</argument>
-                <classpath />
+                <classpath/>
                 <argument>org.sakaiproject.content.impl.util.StorageConverter</argument>
                 <!-- Use either a properties file or the properties...or both
                 <argument>-p</argument>
