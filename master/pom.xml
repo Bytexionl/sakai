@@ -111,7 +111,7 @@
     <sakai.spring.groupId>org.springframework</sakai.spring.groupId>
     <sakai.spring.artifactId>spring-core</sakai.spring.artifactId>
     <sakai.spring.version>4.3.10.RELEASE</sakai.spring.version>
-    <sakai.spring.security.version>3.2.10.RELEASE</sakai.spring.security.version>
+    <sakai.spring.security.version>5.7.12</sakai.spring.security.version>
     <sakai.spring.hateoas.version>0.22.0.RELEASE</sakai.spring.hateoas.version>
     <sakai.spring.plugin.version>1.2.0.RELEASE</sakai.spring.plugin.version>
     <sakai.spring.test.artifactId>spring-test</sakai.spring.test.artifactId>
