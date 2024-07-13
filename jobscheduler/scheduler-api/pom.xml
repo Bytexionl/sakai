@@ -34,11 +34,11 @@
     <dependency>
       <groupId>org.sakaiproject.kernel</groupId>
       <artifactId>sakai-kernel-private</artifactId>
-      <version>13-SNAPSHOT</version>
+      <version>22.0</version>
     </dependency>
   </dependencies>
   
   <build>
-    <resources />
+    <resources/>
   </build>
 </project>
